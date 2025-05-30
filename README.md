@@ -4,7 +4,10 @@ Making a human following robot by using Arduino UNO.
   
   
   used code :
-  // You have to Install the AFMotor and NewPing library Before Uploading the sketch//
+  
+  
+  
+ // You have to Install the AFMotor and NewPing library Before Uploading the sketch//
 // To install the libraries ( first download the AF Motor driver, NewPing and Servo Library zip file 
 
 #include<NewPing.h>
